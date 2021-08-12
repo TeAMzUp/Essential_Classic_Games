@@ -1,4 +1,4 @@
-# Essential Classic Games
+# Essential Classic Games (v2.1)
 
 This app runs games and saves your best scores into a database. No special config needed.  
 Stats will soon be displayed on the web!  
@@ -6,8 +6,8 @@ Contact me here for any question or request.
 
 ## Requirements
 Please install Java SDK 16 or JRE 8 minimum.  
-Please use the .jar file or the .exe file and double click.  
-**You need to download the resources folder too!** You can place it right besides the .jar or the .exe file you downloaded.  
+Just use the .jar file or the .exe file and double click.  
+**You need to download the resources folder too!** It must be placed right besides the .jar or the .exe file you downloaded.  
 
 ## Notes
 Note: It uses **NORM** SQL implementation (Copyright 2014, Dieselpoint, Inc. under Apache License v2.0).  
